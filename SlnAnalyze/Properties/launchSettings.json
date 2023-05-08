@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SlnAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": "--file C:\\u4\\UBW\\platform\\Solutions\\Platform.sln"
+    }
+  }
+}
